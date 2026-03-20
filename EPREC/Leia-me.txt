@@ -1,0 +1,28 @@
+EP-REC
+
+Caros,
+
+Aqui lhes direi como usar o meu eprec.
+Primeiro, todos os arquivos dessa pasta devem estar juntos.
+Incluindo os teste1 e teste2.
+Depois, abra os arquivos "tarefa1","tarefa2","tarefa3" e "EPREC-Main".
+O arquivo a ser rodado é o "EPREC-Main".
+
+Depois, ao executar o código, será perguntado os parametros. Mais especificamente:
+
+==> Pedir qual teste
+==> Pedir qual método de Gram Schmidt
+
+Se for o teste A ou B, já aparece o resultado.
+
+==> Pedir N
+
+Se for o teste C,D,E, já aparece o resultado.
+
+==> Pedir episolon
+
+Se for o teste F, já aparece o resultado.
+
+Caso o teste ou N não existir, nada retorna.
+-------------------x-------------------
+Wilson Siou Kan Chow , 10769938
